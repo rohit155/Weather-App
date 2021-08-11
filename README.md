@@ -4,7 +4,7 @@
 
 [Instagram](https://instagram.com/code_with_rohit?igshid=71vfqs608pnw)
 
-I am Rohit Jangid 😃. I am Maharashtra, India. I love to explore and learn iOS and Web.
+I am Rohit Jangid 😃. I am from Maharashtra, India. I love to explore and learn iOS and Web.
 ## ⚡ Technologies
 Talk to me about
 - iOS application development **Xcode & Swift**
